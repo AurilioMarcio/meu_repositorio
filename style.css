@@ -1,0 +1,16 @@
+```css
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+#texto {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#message {
+    font-size: 24px;
+    color: #333;
+}
+```
